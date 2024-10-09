@@ -111,3 +111,14 @@ dd{
     float:left;
     padding:0 15px 15px 0;
 } 
+.sidebar2{
+    padding: 40px 20px;
+    border: 1px solid #ccc;
+    border-radius:8px;
+    margin-top:70px;
+    flex:200px 0 0;
+    float:left
+}
+.mainpara{
+    
+}
