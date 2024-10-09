@@ -96,3 +96,18 @@ th{
 tr:nth-child(odd){
     background-color: #ccc;	
 }
+dt{
+    font-weight: bold;
+    border-top: 1px dashed #ccc;	
+    padding: 20px 0;	
+}
+dt:first-child{
+    border-top: none;
+}
+dd{
+    padding: 0 0 20px 0;
+}
+.left-float{
+    float:left;
+    padding:0 15px 15px 0;
+} 
